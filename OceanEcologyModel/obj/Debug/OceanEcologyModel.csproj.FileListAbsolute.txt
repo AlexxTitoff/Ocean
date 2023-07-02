@@ -1,0 +1,74 @@
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel\OceanEcologyModel\obj\Debug\OceanEcologyModel.csproj.CoreCompileInputs.cache
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe.config
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel\OceanEcologyModel\bin\Debug\OceanEcologyModel.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel\OceanEcologyModel\bin\Debug\BL_Library.dll
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel\OceanEcologyModel\bin\Debug\BL_Library.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel\OceanEcologyModel\obj\Debug\OceanEcologyModel.csprojResolveAssemblyReference.cache
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel\OceanEcologyModel\obj\Debug\OceanEcologyModel.exe
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel\OceanEcologyModel\obj\Debug\OceanEcologyModel.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(4)\OceanEcologyModel\obj\Debug\OceanEcologyModel.csprojResolveAssemblyReference.cache
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(4)\OceanEcologyModel\obj\Debug\OceanEcologyModel.csproj.CoreCompileInputs.cache
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(4)\OceanEcologyModel\obj\Debug\OceanEcologyModel.exe
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(4)\OceanEcologyModel\obj\Debug\OceanEcologyModel.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(4)\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe.config
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(4)\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(4)\OceanEcologyModel\bin\Debug\OceanEcologyModel.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(4)\OceanEcologyModel\bin\Debug\BL_Library.dll
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(4)\OceanEcologyModel\bin\Debug\BL_Library.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(5)\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe.config
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(5)\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(5)\OceanEcologyModel\bin\Debug\OceanEcologyModel.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(5)\OceanEcologyModel\bin\Debug\BL_Library.dll
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(5)\OceanEcologyModel\bin\Debug\BL_Library.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(5)\OceanEcologyModel\obj\Debug\OceanEcologyModel.csprojResolveAssemblyReference.cache
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(5)\OceanEcologyModel\obj\Debug\OceanEcologyModel.csproj.CoreCompileInputs.cache
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(5)\OceanEcologyModel\obj\Debug\OceanEcologyModel.exe
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(5)\OceanEcologyModel\obj\Debug\OceanEcologyModel.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(6)\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe.config
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(6)\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(6)\OceanEcologyModel\bin\Debug\OceanEcologyModel.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(6)\OceanEcologyModel\bin\Debug\BL_Library.dll
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(6)\OceanEcologyModel\bin\Debug\BL_Library.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(6)\OceanEcologyModel\obj\Debug\OceanEcologyModel.csprojResolveAssemblyReference.cache
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(6)\OceanEcologyModel\obj\Debug\OceanEcologyModel.csproj.CoreCompileInputs.cache
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(6)\OceanEcologyModel\obj\Debug\OceanEcologyModel.exe
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(6)\OceanEcologyModel\obj\Debug\OceanEcologyModel.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(7) Dictionary\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe.config
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(7) Dictionary\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(7) Dictionary\OceanEcologyModel\bin\Debug\OceanEcologyModel.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(7) Dictionary\OceanEcologyModel\bin\Debug\BL_Library.dll
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(7) Dictionary\OceanEcologyModel\bin\Debug\BL_Library.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(7) Dictionary\OceanEcologyModel\obj\Debug\OceanEcologyModel.csprojResolveAssemblyReference.cache
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(7) Dictionary\OceanEcologyModel\obj\Debug\OceanEcologyModel.csproj.CoreCompileInputs.cache
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(7) Dictionary\OceanEcologyModel\obj\Debug\OceanEcologyModel.exe
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(7) Dictionary\OceanEcologyModel\obj\Debug\OceanEcologyModel.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(8) List\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe.config
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(8) List\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(8) List\OceanEcologyModel\bin\Debug\OceanEcologyModel.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(8) List\OceanEcologyModel\bin\Debug\BL_Library.dll
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(8) List\OceanEcologyModel\bin\Debug\BL_Library.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(8) List\OceanEcologyModel\obj\Debug\OceanEcologyModel.csprojResolveAssemblyReference.cache
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(8) List\OceanEcologyModel\obj\Debug\OceanEcologyModel.csproj.CoreCompileInputs.cache
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(8) List\OceanEcologyModel\obj\Debug\OceanEcologyModel.exe
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(8) List\OceanEcologyModel\obj\Debug\OceanEcologyModel.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe.config
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\bin\Debug\OceanEcologyModel.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\bin\Debug\BL_Library.dll
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\bin\Debug\BL_Library.pdb
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\obj\Debug\OceanEcologyModel.csprojResolveAssemblyReference.cache
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\obj\Debug\OceanEcologyModel.csproj.CoreCompileInputs.cache
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\obj\Debug\OceanEcologyModel.exe
+C:\DD\111\Копия Все 2022-01-18\Курс C#_net 09_21-06_22\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\obj\Debug\OceanEcologyModel.pdb
+C:\DD\111\TRAINEE_COURSE\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe.config
+C:\DD\111\TRAINEE_COURSE\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\bin\Debug\OceanEcologyModel.exe
+C:\DD\111\TRAINEE_COURSE\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\bin\Debug\OceanEcologyModel.pdb
+C:\DD\111\TRAINEE_COURSE\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\bin\Debug\BL_Library.dll
+C:\DD\111\TRAINEE_COURSE\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\bin\Debug\BL_Library.pdb
+C:\DD\111\TRAINEE_COURSE\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\obj\Debug\OceanEcologyModel.csproj.AssemblyReference.cache
+C:\DD\111\TRAINEE_COURSE\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\obj\Debug\OceanEcologyModel.csproj.SuggestedBindingRedirects.cache
+C:\DD\111\TRAINEE_COURSE\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\obj\Debug\OceanEcologyModel.csproj.CoreCompileInputs.cache
+C:\DD\111\TRAINEE_COURSE\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\obj\Debug\OceanEcologyModel.csproj.CopyComplete
+C:\DD\111\TRAINEE_COURSE\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\obj\Debug\OceanEcologyModel.exe
+C:\DD\111\TRAINEE_COURSE\Индивидуальные задания\Океан\OceanEcologyModel(9) List\OceanEcologyModel\obj\Debug\OceanEcologyModel.pdb
